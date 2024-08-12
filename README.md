@@ -1,2 +1,4 @@
 # BIT2.2
-Object oriented Programming
+The assignment has been done by: <br>
+CHRISTOPHER MAINA MACHARIA SCT221-0778/2022 <br>
+JACKSON RUITARI 
